@@ -1,7 +1,7 @@
 # By:Mayank Kandpal
-# 🛡️ Cyber Intern - Phase 2: Advanced Threat Simulation & Detection
+#  Cyber Intern - Phase 2: Advanced Threat Simulation & Detection
 
-## 🎯 Main Objective
+## Main Objective
 
 The goal of **Phase 2** is to simulate more advanced and realistic cyberattack scenarios and detect them using telemetry from tools like Sysmon, Winlogbeat, and SIEM platforms (Wazuh/ELK).
 
@@ -13,7 +13,7 @@ We will:
 
 ---
 
-## 🔍 Focus Areas
+## Focus Areas
 
 1. **Suspicious File Downloads** (ZIP, RAR)
 2. **Encoded/Malicious PowerShell Execution**
@@ -28,7 +28,7 @@ We will:
 
 ---
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
 - **Sysmon**
 - **Winlogbeat**
